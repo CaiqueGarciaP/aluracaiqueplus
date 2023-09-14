@@ -62,3 +62,8 @@ strong
   align-items: center;
   text-align: center;
 }
+
+.container__botao {
+  margin: 0 4em;
+}
+
