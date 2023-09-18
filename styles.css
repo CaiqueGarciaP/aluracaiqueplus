@@ -26,16 +26,17 @@ body {
   grid-template-columns: 50% 50%;
   /* background-color: red; */
 }
+
 .container__botao {
   background-color: var(--botao-azul);
   border-radius: 5px;
   padding: 1em;
   color: var(--branco-principal);
-text-decoration: none;
-display: block;
+  text-decoration: none;
+  display: block;
 }
-strong 
-{
+
+strong {
   color: red;
   font-weight: 700;
 }
@@ -47,9 +48,9 @@ strong
 }
 
 .container_titulo {
-  font-size: 28px; 
+  font-size: 28px;
   font-weight: 700;
-  font-weight: bold ;
+  font-weight: bold;
 }
 
 .container_aviso {
@@ -68,7 +69,7 @@ strong
 }
 
 .container_caixa {
-margin: 0 3em;
+  margin: 0 3em;
 }
 
 .container_imagem {
@@ -93,8 +94,8 @@ margin: 0 3em;
 
 .descricao_texto {
 
-color:var(--cinza-secundario) ;
-line: height 125px;
+  color: var(--cinza-secundario);
+  line-height: 125%;
 
 
 }
