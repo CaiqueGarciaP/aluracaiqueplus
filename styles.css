@@ -92,7 +92,7 @@ strong {
   margin-bottom: 0.1em;
 }
 
-.descricao_texto {
+.descricao__texto {
 
   color: var(--cinza-secundario);
   line-height: 125%;
