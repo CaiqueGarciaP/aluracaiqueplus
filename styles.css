@@ -83,3 +83,9 @@ margin: 0 3em;
 .secundario__imagem {
   width: 80%;
 }
+
+.descricao__titulo {
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--cinza-secundario)
+}
