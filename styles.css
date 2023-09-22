@@ -108,3 +108,8 @@ strong {
   text-decoration: none;
   display: block;
 }
+
+.secundario__botao {
+  display: inline-block;
+  margin-top: 1em;
+}
