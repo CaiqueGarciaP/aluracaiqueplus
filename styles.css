@@ -106,6 +106,5 @@ strong {
   padding: 1em;
   color: var(--branco-principal);
   text-decoration: none;
-  display: inline-block;
-  margin-top: 1em;
+  display: block;
 }
