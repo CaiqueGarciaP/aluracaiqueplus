@@ -129,8 +129,10 @@ justify-content: center;
  }
 
  .dispositivos__titulo {
+  font-size: 42px;
   color: brown;
  }
  .lista__item {
   color: darkmagenta;
+  font-size: 28px;
  }
