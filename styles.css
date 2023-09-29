@@ -119,3 +119,11 @@ strong {
   font-size: 48px;
   color: red;
 }
+ .dispositivos__lista {
+display: flex;
+justify-content: center;
+ }
+
+ .dispositivos {
+  text-align: center;
+ }
