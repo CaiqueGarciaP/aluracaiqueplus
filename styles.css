@@ -127,3 +127,10 @@ justify-content: center;
  .dispositivos {
   text-align: center;
  }
+
+ .dispositivos__titulo {
+  color: brown;
+ }
+ .lista__item {
+  color: darkmagenta;
+ }
